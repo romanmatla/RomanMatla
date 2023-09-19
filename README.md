@@ -2,8 +2,10 @@
 **I am a flutter developer with a passion.**
 
 <img align='right' src='https://user-images.githubusercontent.com/123462470/268937117-572b425f-2c29-4f88-a84c-d79ae35786ef.jpg' width='400'>
-I fell in love with it from the first meeting :fire:. I didn't expect there was anything else that could draw me in and interest me so much. My passion for learning about and exploring Flutter is a source of constant joy and satisfaction for me:computer:. 
-I believe Flutter is the future of mobile development:iphone:. It is a technology that has the potential to revolutionize the way we create and use mobile applications.
+I fell in love with it from the first meeting :fire:. I didn't expect there was anything else that could draw me in and interest me so much. My passion for learning about and exploring Flutter is a source of constant joy and satisfaction for me :computer:. 
+
+I believe Flutter is the future of mobile development :iphone:. It is a technology that has the potential to revolutionize the way we create and use mobile applications. 
+
 
 -**Flutter programming experience:** 1 year :calendar:
 
