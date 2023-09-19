@@ -4,9 +4,11 @@ I am a flutter developer with a passion.
 I fell in love with it from the first meeting :fire:. I didn't expect there was anything else that could draw me in and interest me so much. My passion for learning about and exploring Flutter is a source of constant joy and satisfaction for me:computer:. 
 I believe Flutter is the future of mobile development:iphone:. It is a technology that has the potential to revolutionize the way we create and use mobile applications.
 
--**bold text**Flutter programming experience:**bold text** 1 year :calendar:
--**bold text**Flutter projects I'm particularly proud of:**bold text**  A mobile app to control the contents of the freezer :snowflake:
--**bold text**Hobbies and interests:**bold text** I am interested in creative games for children :baby: and looking for new ideas
+-**Flutter programming experience:** 1 year :calendar:
+
+-**Flutter projects I'm particularly proud of:**  A mobile app to control the contents of the freezer :snowflake:
+
+-**Hobbies and interests:** I am interested in creative games for children :baby: and looking for new ideas
 
 <!--
 **romanmatla/RomanMatla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
